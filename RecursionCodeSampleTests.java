@@ -2,7 +2,8 @@ import java.io.*;
 import java.util.*;
 import org.junit.*;
 import static org.junit.Assert.*;
-
+/* Test cases that test for recursion code and
+ * see if the code actually has recursive calls*/
 public class RecursionCodeSampleTests {
 	static ByteArrayOutputStream localOut, localErr;
 	static PrintStream sysOut, sysErr;

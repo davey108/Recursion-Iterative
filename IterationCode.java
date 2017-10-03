@@ -2,7 +2,7 @@ import java.util.Date;
 
 /**
  *  Performs various operations for practice with arrays
- *  and Java 
+ *  and Java using only Iteration
  */
  class IterationCode {
  /**

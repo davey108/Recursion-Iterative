@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import org.junit.*;
 import static org.junit.Assert.*;
-
+/* This class contains extensive test cases for both Iteration and Recursion classes codes*/
 public class Project4Tests { 
   IterationCode testI = new IterationCode();
   RecursionCode testR = new RecursionCode(); 
